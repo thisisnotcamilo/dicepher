@@ -1,4 +1,4 @@
-`dicepher` generates passphrases based on 3-word diceware, special characters & numbers.
+`dicepher` generates passphrases based on diceware, special characters & numbers.
 
 ```sh
 $ python3 -m venv env
