@@ -26,7 +26,7 @@ def get_random_word(diceware_dict):
             return word
 
 def get_random_special_char():
-    special_chars = '!@#$%&*-+='
+    special_chars = '!@#%&*><'
     return random.choice(special_chars)
 
 def generate_password(diceware_dict, word_count):
